@@ -40,7 +40,7 @@
 .column {
   float:            left;
   display:          inline-block;
-  background:       #cbdafd;
+  background:       #50abd6;
   height:           130px;
   width:            100%;
   padding-top:      10px;
@@ -138,8 +138,8 @@ pre {
   border:        3px solid rgba(255, 255, 255, 0.15);
   padding:       10px; 
   color:         black;
-  background:    #50abd6;
-  font-size:     0.7em; 
+  background:    #cbdafd;
+  font-size:     0.74em;
   border-radius: 2px;
 }
 
