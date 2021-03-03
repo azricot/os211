@@ -111,7 +111,7 @@
 }
 
 .navbar {
-  background-color: #cbdafd;
+  background-color: #50abd6;
   color:            #FFFFFF;
   font-size:        0.7em;
 }
@@ -137,7 +137,8 @@
 pre {
   border:        3px solid rgba(255, 255, 255, 0.15);
   padding:       10px; 
-  color:         #b5e853;
+  color:         black;
+  background:    #50abd6;
   font-size:     0.7em; 
   border-radius: 2px;
 }
