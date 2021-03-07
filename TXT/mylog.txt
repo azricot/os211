@@ -22,3 +22,4 @@ ZCZC W01  90 L06 Reading References and articles
 ZCZC W01  90 L05 GSGS related: search for references, links, documents 
 ZCZC W01  30 L17 Assignment #7: Write and push Top 10 List of Week01
 ZCZC W01 120 L18 Assignment #8: GSGS and read references for Bash, Regex, sed, and AWK
+ZCZC W01  60 L00 General Log: See some of the Top 10 Links from others, and write the best ones to myrank.txt
