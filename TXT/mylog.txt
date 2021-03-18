@@ -37,3 +37,8 @@ ZCZC W02 120 L17 Search for interesting links and update my T10 links for w02
 ZCZC W02   5 L18 Copy and use a simple bash script, myscript.sh
 ZCZC W02  10 L19 Update mylog.txt
 ZCZC W02   2 L20 Make SHA256SUM and sign it as SHA256SUM.asc
+ZCZC W03  60 L11 Quick read of OSC-10 chapter 13
+ZCZC W03  60 L12 Trying demo Week 03
+ZCZC W03   2 L13 Check .bash_aliases file
+ZCZC W03  40 L17 Do assignment 7: tarballed W03-FUSE.txt
+ZCZC W03   5 L18 Update bash script and add notes
