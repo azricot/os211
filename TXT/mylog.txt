@@ -42,3 +42,8 @@ ZCZC W03  60 L12 Trying demo Week 03
 ZCZC W03   2 L13 Check .bash_aliases file
 ZCZC W03  40 L17 Do assignment 7: tarballed W03-FUSE.txt
 ZCZC W03   5 L18 Update bash script and add notes
+ZCZC W03  60 L11 Quick read of OSC-10 chapter 14 and 15
+ZCZC W03 120 L15 Create my TOP 10 list of week 3
+ZCZC W03  60 L14 Review and pick 3 of my neighbour's TOP 10 list
+ZCZC W03  60 L05 GSGS for FUSE and file system in Linux
+ZCZC W03  10 L00 update mylog.txt
