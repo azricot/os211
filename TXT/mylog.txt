@@ -47,3 +47,10 @@ ZCZC W03 120 L15 Create my TOP 10 list of week 3
 ZCZC W03  60 L14 Review and pick 3 of my neighbour's TOP 10 list
 ZCZC W03  60 L05 GSGS for FUSE and file system in Linux
 ZCZC W03  10 L00 update mylog.txt
+ZCZC W04 120 L11 Read OSC-10 chapter 9
+ZCZC W04  90 L12 Trying demo Week 04
+ZCZC W04  20 L16 Do week 04 assignment
+ZCZC W04 120 L05 GSGS: trying to find out and learn about addressing in C
+ZCZC W04 120 L14 Make my TOP 10 list for week 4
+ZCZC W04  60 L13 Check out my neighbour's TOP 10 lists and pick the best ones
+ZCZC W04  10 L15 Updating mylog
