@@ -54,3 +54,10 @@ ZCZC W04 120 L05 GSGS: trying to find out and learn about addressing in C
 ZCZC W04 120 L14 Make my TOP 10 list for week 4
 ZCZC W04  60 L13 Check out my neighbour's TOP 10 lists and pick the best ones
 ZCZC W04  10 L15 Updating mylog
+ZCZC W05  40 L14 Do week 05 assignment and try minimum RAM on Debian Guest
+ZCZC W05  90 L11 Read OSC10 chapter 10
+ZCZC W05  90 L07 Trying demo WEEK 05: virtual memory
+ZCZC W05  90 L05 GSGS: searching and learning about virtual memory, thrashing, etc.
+ZCZC W05 150 L13 Create my TOP 10 list of Week 05
+ZCZC W05  90 L12 Review my neighbour's last week TOP 10 list and pick the best ones
+ZCZC W05  10 L15 Updating mylog
