@@ -61,3 +61,11 @@ ZCZC W05  90 L05 GSGS: searching and learning about virtual memory, thrashing, e
 ZCZC W05 150 L13 Create my TOP 10 list of Week 05
 ZCZC W05  90 L12 Review my neighbour's last week TOP 10 list and pick the best ones
 ZCZC W05  10 L15 Updating mylog
+ZCZC W06 100 L11 Read OSC-10 chapter 3
+ZCZC W06  80 L11 Read OSC-10 chapter 4
+ZCZC W06  60 L12 Checkout my neighbour's TOP 10 lists from last week and pick 3 for myrank
+ZCZC W06 120 L07 Trying demo WEEK 06
+ZCZC W06 120 L05 GSGS: trying to understand concurrency, fork, etc.
+ZCZC W06  60 L14 Do Week 6 assignment and try to understand the script readme on W06 folder.
+ZCZC W06  90 L13 Add 5 links to my TOP 10 list of Week 6
+ZCZC W06   5 L15 Updating mylog

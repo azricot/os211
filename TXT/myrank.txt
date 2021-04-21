@@ -12,3 +12,6 @@ ZCZC W03 corfaitch
 ZCZC W04 bimabr
 ZCZC W04 blopblipblap
 ZCZC W04 bltszr
+ZCZC W05 bltszr
+ZCZC W05 cornelita
+ZCZC W05 corfaitch
