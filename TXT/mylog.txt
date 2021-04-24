@@ -69,3 +69,6 @@ ZCZC W06 120 L05 GSGS: trying to understand concurrency, fork, etc.
 ZCZC W06  60 L14 Do Week 6 assignment and try to understand the script readme on W06 folder.
 ZCZC W06  90 L13 Add 5 links to my TOP 10 list of Week 6
 ZCZC W06   5 L15 Updating mylog
+ZCZC W06  90 L05 GSGS: further understanding of fork() and exec() and its uses
+ZCZC W06  60 L13 Finish my TOP 10 list of Week 6
+ZCZC W06   5 L15 Updating mylog
