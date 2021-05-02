@@ -15,3 +15,6 @@ ZCZC W04 bltszr
 ZCZC W05 bltszr
 ZCZC W05 cornelita
 ZCZC W05 corfaitch
+ZCZC W06 bintangdom
+ZCZC W06 calmeryan
+ZCZC W06 cornelita
