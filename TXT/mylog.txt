@@ -86,3 +86,5 @@ ZCZC W08 180 L13 Do assignment W08: Do LFS Chapter 1-4
 ZCZC W08 120 L12 Add 10 links to my TOP 10 list of Week 8
 ZCZC W08  60 L12 Review my neighbour's TOP 10 lists from last week and pick 3 for myrank
 ZCZC W08  10 L15 Updating mylog
+ZCZC W09  90 L05 GSGS: read on lfs
+ZCZC W09 150 L14 Trying to do Assignment for WEEK 09
